@@ -8,12 +8,6 @@ NEMGLO, the Green-energy Load Optimisation tool for the Australian National Elec
 - Shadow Pricing of Grid Emissions Intensity (average & marginal emissions)
 - Constrain to Green Energy Certification Standards for H2 (max tCO2 content per tH2) 
 
-**Project Links**
-- Project Homepage: https://www.nemglo.org/
-- Python Github Repository: https://github.com/dec-heim/NEMGLO
-- Python Documentation: https://nemglo.readthedocs.io/en/latest/about.html
-- NEMGLO App Github Repository: https://github.com/dec-heim/NEMGLO-app
-
 
 ## Installation
 ```bash
